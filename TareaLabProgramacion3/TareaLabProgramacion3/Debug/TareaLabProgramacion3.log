@@ -1,0 +1,11 @@
+﻿  Addition.cpp
+  ArithmeticExpression.cpp
+  Division.cpp
+  Expression.cpp
+  Multiplication.cpp
+  Number.cpp
+  Substraction.cpp
+  TareaLabProgramacion3.cpp
+c:\users\dell\documents\github\lab-p-3\lab-p-3-master\tarealabprogramacion3\tarealabprogramacion3\tarealabprogramacion3.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  TareaLabProgramacion3.vcxproj -> C:\Users\DELL\Documents\GitHub\Lab-p-3\lab-p-3-master\TareaLabProgramacion3\Debug\TareaLabProgramacion3.exe
